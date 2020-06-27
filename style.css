@@ -605,3 +605,20 @@ textarea:focus {
 .next p {
       text-align: right;
 }
+
+/* Tambahan Tombol */
+
+.arrow-nav{
+      position: relative;
+      width: 80%;
+      margin:0;
+      padding:0;
+      left:50%;
+      
+}
+
+#arrow{
+      font-size:50px;
+      color:#dfdfdf;
+      opacity: 0.5 ;
+}
